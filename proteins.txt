@@ -7,3 +7,5 @@ Hemoglobin-beta  Human   HBB_HUMAN  P68871  432
 PKFM             Human   pfkam_humna P08237 874
 pkfm             Mouse   PFKAM_MOUSE P47857 523
 PKFM             Rat     PFKAM_RAT   P47858 780
+
+!!!!
